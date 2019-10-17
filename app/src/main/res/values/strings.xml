@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UTS</string>
+    <string name="nis">NIS</string>
+    <string name="nama">Nama</string>
+    <string name="alamat">Alamat</string>
+    <string name="handphone">Handphone</string>
+    <string name="keterangan">Keterangan</string>
+    <string name="input_nis">Input nis</string>
+    <string name="input_nama">Input nama</string>
+    <string name="input_alamat">Input alamat</string>
+    <string name="input_handphone">Input handphone</string>
+    <string name="input_keterangan">Input keterangan</string>
+    <string name="submit">Submit</string>
+</resources>
