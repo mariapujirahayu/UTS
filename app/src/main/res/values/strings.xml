@@ -11,4 +11,24 @@
     <string name="input_handphone">Input handphone</string>
     <string name="input_keterangan">Input keterangan</string>
     <string name="submit">Submit</string>
+    <string name="menu">Menu</string>
+    <string name="siswa">Siswa</string>
+    <string name="guru">Guru</string>
+    <string name="mata_pelajaran">Mata Pelajaran</string>
+    <string name="ruang_kelas">Ruang Kelas</string>
+    <string name="jadwal">Jadwal</string>
+    <string name="jumlah_jam">Jumlah Jam</string>
+    <string name="absen">Absen</string>
+    <string name="tugas">Tugas</string>
+    <string name="kode_dosen">Kode Dosen</string>
+    <string name="jobsheet">Jobsheet</string>
+    <string name="agama">Agama</string>
+
+    <string-array name="pilihanAgama">
+        <item>Islam</item>
+        <item>Katolik</item>
+        <item>Kristen</item>
+        <item>Hindu</item>
+        <item>Budha</item>
+    </string-array>
 </resources>
